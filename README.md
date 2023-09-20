@@ -1,4 +1,5 @@
 # Live link
+https://joujonikiasa2.github.io/News-Portal/
 
 # news-portal-assignemnt
 Please create yoru private repo 
